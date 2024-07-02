@@ -24,3 +24,5 @@
 - Wait for the mods to download and your all done. You can now select the presets needed in the launcher from the presets drop down tab.
 
 ![](img/presets.png)
+
+@made by ...
